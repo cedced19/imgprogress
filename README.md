@@ -11,4 +11,5 @@ ImgProgress is available via bower.
 
 ```bash
 $ bower install --save imgprogress
+$ bower install --save https://github.com/cedced19/imgprogress.git
 ```
